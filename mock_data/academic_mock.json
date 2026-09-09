@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-08-31 12:00:00",
+    "query_topic": "Resource Optimization AI",
+    "paper_title": "Adaptive Resource Scheduling in Cloud-Edge Environments Using Deep RL",
+    "authors": "Zhang, L., Patel, R., Kumar, S.",
+    "year": 2024,
+    "abstract": "We introduce a deep reinforcement learning framework that dynamically optimizes CPU and memory allocation, reducing energy overhead by 34% across distributed clusters.",
+    "citation_count": 142,
+    "source": "Semantic Scholar"
+  },
+  {
+    "timestamp": "2025-08-31 12:00:00",
+    "query_topic": "Resource Optimization AI",
+    "paper_title": "Carbon-Aware Computing: Measuring and Minimizing Datacenter Power Spikes",
+    "authors": "Hansen, M., O'Connor, T.",
+    "year": 2023,
+    "abstract": "Analysis of telemetry data from 50 enterprise datacenters showing methods to shift non-critical background computational jobs to off-peak renewable energy hours.",
+    "citation_count": 89,
+    "source": "arXiv"
+  },
+  {
+    "timestamp": "2025-08-31 12:00:00",
+    "query_topic": "Resource Optimization AI",
+    "paper_title": "Workload Balancing and Developer Burnout Prediction via VCS Telemetry",
+    "authors": "Nakamura, E., Rossi, G.",
+    "year": 2024,
+    "abstract": "An empirical study tracking commit frequencies and pull request reviews to predict engineering fatigue and balance issue distribution.",
+    "citation_count": 56,
+    "source": "Semantic Scholar"
+  }
+]

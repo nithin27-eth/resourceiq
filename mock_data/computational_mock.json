@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-08-31 09:00:00",
+    "cpu_percent": 18.5,
+    "ram_percent": 42.1,
+    "disk_percent": 68.0,
+    "running_processes": 95
+  },
+  {
+    "timestamp": "2025-08-31 11:30:00",
+    "cpu_percent": 84.2,
+    "ram_percent": 79.5,
+    "disk_percent": 68.2,
+    "running_processes": 210
+  },
+  {
+    "timestamp": "2025-08-31 14:15:00",
+    "cpu_percent": 91.8,
+    "ram_percent": 86.4,
+    "disk_percent": 70.1,
+    "running_processes": 245
+  },
+  {
+    "timestamp": "2025-08-31 17:00:00",
+    "cpu_percent": 45.0,
+    "ram_percent": 55.3,
+    "disk_percent": 70.2,
+    "running_processes": 130
+  },
+  {
+    "timestamp": "2025-08-31 21:00:00",
+    "cpu_percent": 12.3,
+    "ram_percent": 38.0,
+    "disk_percent": 70.2,
+    "running_processes": 88
+  }
+]

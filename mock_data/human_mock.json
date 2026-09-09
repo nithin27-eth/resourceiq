@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-08-31 18:00:00",
+    "member_name": "dev_alice",
+    "repo_name": "resourceiq-core",
+    "commits_last_week": 45,
+    "open_issues_assigned": 8,
+    "languages_used": "Python, SQL, Shell"
+  },
+  {
+    "timestamp": "2025-08-31 18:00:00",
+    "member_name": "dev_bob",
+    "repo_name": "resourceiq-core",
+    "commits_last_week": 3,
+    "open_issues_assigned": 1,
+    "languages_used": "Python, Docker"
+  },
+  {
+    "timestamp": "2025-08-31 18:00:00",
+    "member_name": "dev_carol",
+    "repo_name": "resourceiq-frontend",
+    "commits_last_week": 22,
+    "open_issues_assigned": 4,
+    "languages_used": "JavaScript, HTML, CSS"
+  },
+  {
+    "timestamp": "2025-08-31 18:00:00",
+    "member_name": "dev_dave",
+    "repo_name": "resourceiq-analytics",
+    "commits_last_week": 18,
+    "open_issues_assigned": 3,
+    "languages_used": "Python, R"
+  }
+]

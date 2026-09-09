@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+psutil
+groq
+python-dotenv
+fpdf2

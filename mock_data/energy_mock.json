@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-08-31 10:00:00",
+    "building_name": "Block A - Computer Lab",
+    "kwh_consumed": 420.5,
+    "device_count": 65,
+    "peak_hours": "10:00-13:00"
+  },
+  {
+    "timestamp": "2025-08-31 14:00:00",
+    "building_name": "Block B - Data Center & Servers",
+    "kwh_consumed": 890.2,
+    "device_count": 120,
+    "peak_hours": "09:00-18:00"
+  },
+  {
+    "timestamp": "2025-08-31 16:00:00",
+    "building_name": "Block C - Administrative Wing",
+    "kwh_consumed": 150.8,
+    "device_count": 30,
+    "peak_hours": "11:00-15:00"
+  },
+  {
+    "timestamp": "2025-08-31 20:00:00",
+    "building_name": "Block B - Data Center & Servers",
+    "kwh_consumed": 740.0,
+    "device_count": 120,
+    "peak_hours": "Unattended Night Load"
+  }
+]
